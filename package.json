@@ -1,0 +1,12 @@
+{
+  "name": "@lunas-engine/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for @lunas-engine packages",
+  "main": "index.json",
+  "keywords": [],
+  "author": "Jurmerlo",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "3.x"
+  }
+}

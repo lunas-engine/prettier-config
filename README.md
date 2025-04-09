@@ -1,2 +1,2 @@
 # prettier-config
-The prettier config for all Lunas projects
+The prettier config for all @lunas-engine
